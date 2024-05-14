@@ -11,6 +11,7 @@
 		CB10F7622BE2D0170094CB29 /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB10F7612BE2D0170094CB29 /* DashboardView.swift */; };
 		CB10F7642BE2D01C0094CB29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB10F7632BE2D01C0094CB29 /* Assets.xcassets */; };
 		CB10F7672BE2D01C0094CB29 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB10F7662BE2D01C0094CB29 /* Preview Assets.xcassets */; };
+		CBB73ED72BF42D65007A8217 /* HealthKitPermissionPrimingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBB73ED62BF42D65007A8217 /* HealthKitPermissionPrimingView.swift */; };
 		CBD040BB2BEE6F7400903716 /* HealthDataListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBD040BA2BEE6F7400903716 /* HealthDataListView.swift */; };
 /* End PBXBuildFile section */
 
@@ -20,6 +21,7 @@
 		CB10F7612BE2D0170094CB29 /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
 		CB10F7632BE2D01C0094CB29 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB10F7662BE2D01C0094CB29 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		CBB73ED62BF42D65007A8217 /* HealthKitPermissionPrimingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthKitPermissionPrimingView.swift; sourceTree = "<group>"; };
 		CBD040BA2BEE6F7400903716 /* HealthDataListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HealthDataListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -53,6 +55,7 @@
 		CB10F75E2BE2D0170094CB29 /* Step Tracker */ = {
 			isa = PBXGroup;
 			children = (
+				CBB73ED62BF42D65007A8217 /* HealthKitPermissionPrimingView.swift */,
 				CB10F75F2BE2D0170094CB29 /* Step_TrackerApp.swift */,
 				CBD040BA2BEE6F7400903716 /* HealthDataListView.swift */,
 				CB10F7612BE2D0170094CB29 /* DashboardView.swift */,
@@ -143,6 +146,7 @@
 				CBD040BB2BEE6F7400903716 /* HealthDataListView.swift in Sources */,
 				CB10F7622BE2D0170094CB29 /* DashboardView.swift in Sources */,
 				CB10F7602BE2D0170094CB29 /* Step_TrackerApp.swift in Sources */,
+				CBB73ED72BF42D65007A8217 /* HealthKitPermissionPrimingView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
